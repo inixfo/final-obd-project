@@ -182,6 +182,6 @@ const val SERVER_PORT = 3000
 
 ## Additional Resources
 
-- [Project README](README.md)
+- [Project README](README/README.md)
 - [Android Automotive Documentation](https://source.android.com/docs/automotive/start/what_automotive)
 - [OBD-II PIDs Reference](https://en.wikipedia.org/wiki/OBD-II_PIDs) 
